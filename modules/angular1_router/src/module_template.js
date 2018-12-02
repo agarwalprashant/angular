@@ -6,6 +6,8 @@
  * found in the LICENSE file at https://angular.io/license
  */
 
+ //hi there changes made in module_template.js
+
 angular.module('ngComponentRouter').
     value('$route', null). // can be overloaded with ngRouteShim
     // Because AngularJS has no notion of a root component, we use an object with unique identity
